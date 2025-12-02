@@ -67,7 +67,7 @@ const Contact: React.FC = () => {
           {/* Map Side (Simulated image for aesthetics) */}
           <div className="md:w-1/2 relative min-h-[400px]">
             <img 
-              src="https://images.unsplash.com/photo-1542601906990-b4d3fb7d5c73?q=80&w=800&auto=format&fit=crop&fm=webp" 
+              src="/images/contact-location.webp" 
               alt="Garden location atmosphere" 
               className="absolute inset-0 w-full h-full object-cover"
             />
