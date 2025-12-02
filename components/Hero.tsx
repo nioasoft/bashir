@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1596627689623-28f8f2b7b512?q=80&w=1920&auto=format&fit=crop&fm=webp" 
+          src="/images/hero.webp" 
           alt="Bashir Salah Garden Design" 
           className="w-full h-full object-cover"
         />

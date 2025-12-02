@@ -5,48 +5,48 @@ const Gallery: React.FC = () => {
   // המבנה הוא: תמונה ראשונה גדולה, ו-8 תמונות רגילות מסביב. סה"כ 9 תמונות שיוצרות מלבן מושלם.
   const images = [
     {
-      url: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=1000&auto=format&fit=crop&fm=webp",
+      url: "/images/gallery-6.webp",
       title: "עיצוב גינות יוקרה",
       isLarge: true // התמונה הראשית
     },
     {
-      url: "https://images.unsplash.com/photo-1598902168289-275827c99651?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "עצי זית עתיקים",
+      url: "/images/gallery-1.webp",
+      title: "גיזום ועיצוב עצים",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?q=80&w=800&auto=format&fit=crop&fm=webp",
+      url: "/images/gallery-7.webp",
       title: "פריחה צבעונית",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1558904541014-efa843a96f01?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "מדשאות ירוקות",
+      url: "/images/gallery-2.webp",
+      title: "דשא סינטטי איכותי",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1611516491426-03025e6043c8?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "פינות ישיבה ופרגולות",
+      url: "/images/gallery-5.webp",
+      title: "נטיעת עצים בוגרים",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1592483648228-b35146a4330c?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "גינות טרופיות",
+      url: "/images/gallery-9.webp",
+      title: "תאורת גן לילית",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1557429287-b2e26467fc2b?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "שבילי אבן",
+      url: "/images/gallery-3.webp",
+      title: "שבילי אבן ומדרך",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "צמחייה ארצישראלית",
+      url: "/images/gallery-8.webp",
+      title: "צוות אחזקה מקצועי",
       isLarge: false
     },
     {
-      url: "https://images.unsplash.com/photo-1628191011993-43508d53bb52?q=80&w=800&auto=format&fit=crop&fm=webp",
-      title: "תאורת גן וערב",
+      url: "/images/gallery-4.webp",
+      title: "מערכות השקיה מתקדמות",
       isLarge: false
     }
   ];

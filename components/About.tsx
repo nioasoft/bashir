@@ -70,12 +70,12 @@ const About: React.FC = () => {
           <div className="flex-1 w-full">
             <div className="grid grid-cols-2 gap-4">
               <img 
-                src="https://images.unsplash.com/photo-1621982054215-680c4369a8b2?q=80&w=600&auto=format&fit=crop&fm=webp" 
+                src="/images/about-1.webp" 
                 alt="עובד גינון מקצועי" 
                 className="rounded-2xl shadow-lg w-full h-64 object-cover mt-8"
               />
               <img 
-                src="https://images.unsplash.com/photo-1592483648228-b35146a4330c?q=80&w=600&auto=format&fit=crop&fm=webp" 
+                src="/images/about-2.webp" 
                 alt="גינות נוי" 
                 className="rounded-2xl shadow-lg w-full h-64 object-cover"
               />
